@@ -1,8 +1,9 @@
 # myapp
 
-A new Flutter project.
+## salida p11
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/f65d3a58-bc51-41e6-8285-d279974d6074)
+
 
 This project is a starting point for a Flutter application.
 
